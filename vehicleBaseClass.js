@@ -67,8 +67,9 @@ class Vehicle {
 
     }
 
-    autoDrive(){
-
+    autoDrive()
+    {
+      
     }
 
     typeOfVehicle(wheels) {
@@ -84,4 +85,3 @@ class Vehicle {
     }
 }
 
-//This exports things you want to use from this "module", more info in readme
